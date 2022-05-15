@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "api-app",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
