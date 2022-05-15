@@ -7067,9 +7067,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"admin-cc3da7@workspace:apps/admin":
+"admin@workspace:apps/admin":
   version: 0.0.0-use.local
-  resolution: "admin-cc3da7@workspace:apps/admin"
+  resolution: "admin@workspace:apps/admin"
   dependencies:
     "@redwoodjs/core": 1.4.0
   languageName: unknown
@@ -7381,20 +7381,20 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"app-d9f226@workspace:apps/app":
-  version: 0.0.0-use.local
-  resolution: "app-d9f226@workspace:apps/app"
-  dependencies:
-    "@redwoodjs/core": 1.4.0
-  languageName: unknown
-  linkType: soft
-
 "app-root-dir@npm:^1.0.2":
   version: 1.0.2
   resolution: "app-root-dir@npm:1.0.2"
   checksum: 0225e4be7788968a82bb76df9b14b0d7f212a5c12e8c625cdc34f80548780bcbfc5f3287d0806dddd83bf9dbf9ce302e76b2887cd3a6f4be52b79df7f3aa9e7c
   languageName: node
   linkType: hard
+
+"app@workspace:apps/app":
+  version: 0.0.0-use.local
+  resolution: "app@workspace:apps/app"
+  dependencies:
+    "@redwoodjs/core": 1.4.0
+  languageName: unknown
+  linkType: soft
 
 "aproba@npm:^1.0.3 || ^2.0.0":
   version: 2.0.0
